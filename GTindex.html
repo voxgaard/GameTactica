@@ -14,23 +14,22 @@
 </head>
 <body>
   <div class="home-flex-container">
-    <!-- Items: Logo, Announcements, Navigation, [begin lower] 3rd Parties, Article Display -->
+    <!-- Items: Logo, Announcements, Navigation, [begin lower] 3rd Parties, Article Display, [final tier] authentication -->
   
   <div class="panel-logo">
-    <img src="./assets/images/GT_LOGO.jpg" alt="GameTactica Logo" width="350" height="450">
+    <img src="./assets/images/GT_LOGO.jpg" alt="GameTactica Logo" width="250" height="350">
   </div>
 
   <div class="panel-announce">
   <!-- 70% viewport width, 50% viewport height; showcases recent announcement(s) -->
-  </div>
-
-  <div class="panel-navigation">
-  <!-- Right-side navbar that spans viewport vertically -->
+  <!-- Header and initial paragraph from announcement; once it runs out of space a link to the announcement -->
+  <!-- Carousel latest three? -->
   </div>
 
   <div class="panel-media">
-  <!-- Arrange in a column below logo to finish viewport -->
+  <!-- Right-side navbar that spans viewport vertically -->
     <div class="mediaIcons">
+        <!-- these will be images which function as links -->
         <i class='bx bxl-twitter'></i>
         <i class='bx bxl-facebook-circle' ></i>
         <i class='bx bxl-github' ></i>
@@ -39,14 +38,34 @@
         <i class='bx bxl-youtube' ></i>
         <i class='bx bxl-reddit' ></i>
         <i class='bx bxl-discord-alt' ></i>
-      </div>
+    </div>
+  </div>
+
+  <div class="panel-navigation">
+  <!-- Arrange left-side navbar in a column below logo -->
+    <div class="nav-items">
+      <!-- use some more free icons here with text -->
+      <div class="forums"></div>
+      <div class="press"></div>
+      <div class="enlistment"></div>
+      <div class="feedback"></div>
+      <div class="foundry"></div>
+      <div class="meta"></div>
     </div>
   </div>
 
   <div class="panel-article">
   <!-- 70% viewport width, 50% viewport height; showcases recent article(s) -->
+  <!-- Header and initial paragraph from article; once it runs out of space a link to the article -->
+  <!-- Carousel latest three? -->
   </div>
 
+  <div class="authentication">
+  <!-- Arrange below media panel to finish viewport -->
+  <!-- Should be a form -->
+  </div>
+
+  </div>
 
 </body>
 </html>
