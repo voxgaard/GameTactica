@@ -7,6 +7,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <title>GameTactica</title>
   <link rel="icon" type="image/x-icon" href="../assets/images/favicon.ico">
+  <script src="/static/search.js"></script>
 </head>
 <body>
   <?php include '../config/database.php' ?>
@@ -38,4 +39,4 @@
 
 <main>
   <div class="container d-flex flex-column align-items-center">
-    <img src="../assets/images/GT_LOGO.jpg" class="w-10 mb-3" alt="">
+    <img src="../assets/images/GT_LOGO.jpg" class="w-10 mb-3" alt="Decorative GT Logo">
