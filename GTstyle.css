@@ -3,3 +3,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.accordion-button:not(.collapsed) {
+    color: #e9c732;
+    background-color: #1f68ac;
+}
+
+.accordion-button:is(.collapsed) {
+    color: #ffffff;
+    background-color: #000000;
+}

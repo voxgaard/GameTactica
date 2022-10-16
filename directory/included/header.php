@@ -22,18 +22,17 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-         <li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link" href="./enlistment.php">Enlistment</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./announcements.php"
-                >Announcements</a
-              >
+              <a class="nav-link" href="./announcements.php">Announcements</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./meta.php"
-                >Meta</a
-              >
+              <a class="nav-link" href="./campaigns.php">Campaigns</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./meta.php">Meta</a>
             </li>
         </ul>
       </div>

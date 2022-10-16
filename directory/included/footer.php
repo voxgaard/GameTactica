@@ -3,8 +3,8 @@
 
 
 
-<footer class="text-center mt-5">
-  Copyright &copy; 2022 <br>
+<footer class="text-center text-danger mt-5">
+  <mark>Copyright &copy; 2022</mark> <br>
   <?php include '../config/db_status.php' ?>
 </footer>
  

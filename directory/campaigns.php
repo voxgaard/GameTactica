@@ -2,7 +2,7 @@
 <h2>Grand Strategy Campaign Templates</h2>
 <!-- Accordian Segment 1 Begin -->
 <div class="accordion" id="accordionCabinet">
-  <div class="accordion-item">
+  <div class="accordion-item bg-warning">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
         Europa Universalis 4 Campaign Templates
@@ -69,7 +69,7 @@
   </div>
   <!-- Accordian Segment 2 Begin 
   <div class="accordion" id="accordionPanelTwo"> -->
-    <div class="accordion-item">
+    <div class="accordion-item bg-warning">
       <h2 class="accordion-header" id="headingTwo">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
         Crusader Kings 3 Campaign Templates
@@ -98,7 +98,7 @@
   </div>
   <!-- Accordian Segment 3 Begin 
   <div class="accordion" id="accordionPanelThree"> -->
-    <div class="accordion-item">
+    <div class="accordion-item bg-warning">
       <h2 class="accordion-header" id="headingThree">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Victoria 3 Campaign Templates
